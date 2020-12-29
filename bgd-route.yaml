@@ -6,7 +6,7 @@ metadata:
   labels:
     app: bgd
   name: bgd
-  namespace: bgd
+  namespace: springboot-workshop-feb-2021
 spec:
   host: "demo-springboot-workshop-feb-2021.apps.awsopenshift.ne-innovation.com"
   port:
